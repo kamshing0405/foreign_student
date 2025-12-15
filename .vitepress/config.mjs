@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/foreign_student/",
   title: "留學の道標",
   description: "日本での生活のガイド",
   themeConfig: {

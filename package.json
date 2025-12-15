@@ -3,5 +3,15 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "commit": "^0.0.4",
+    "git": "^0.1.5",
+    "package-lock.json": "^1.0.0",
+    "push": "^0.1.0"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
   }
 }
